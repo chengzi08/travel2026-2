@@ -1,0 +1,21 @@
+{
+  "name": "港澳廣深旅遊手帳",
+  "short_name": "旅遊手帳",
+  "description": "2026 港澳廣深團體旅遊規劃",
+  "start_url": "/travel2026-2/",
+  "display": "standalone",
+  "background_color": "#F7F4EB",
+  "theme_color": "#A3B18A",
+  "icons": [
+    {
+      "src": "/travel2026-2/favicon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/travel2026-2/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
